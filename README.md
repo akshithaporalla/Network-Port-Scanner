@@ -46,7 +46,7 @@ nmap_portscan_gui/
 # Disclaimer
 Use this tool only on hosts and networks you own or have explicit permission to scan. Unauthorized port scanning may be illegal in your jurisdiction.
 
-#License
+# License
 This project is released under the MIT License.
 
 
